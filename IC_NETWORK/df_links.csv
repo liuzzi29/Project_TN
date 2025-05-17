@@ -1,0 +1,28 @@
+start_node,end_node,distance [m],IC_lines
+Zürich HB,Chur,116075.40199999997,IC3
+Zürich HB,Winterthur,26787.367,"IC5, IC81"
+Zürich HB,Baden,22587.175000000003,IC3
+Zürich HB,Bern,120492.58899999999,"IC1, IC8, IC81"
+Zürich HB,Zürich Oerlikon,5368.4169999999995,IC1
+Zürich HB,Zug,28929.698,IC2
+Zürich HB,Aarau,41492.90499999999,IC5
+Winterthur,St. Gallen,57139.041999999994,"IC1, IC5"
+Winterthur,Zürich Oerlikon,21418.95,IC1
+Basel SBB,Baden,83614.36299999998,IC3
+Basel SBB,Olten,39172.397,"IC21, IC6, IC61"
+Basel SBB,Biel/Bienne,73186.658,IC51
+Fribourg/Freiburg,Bern,31109.895000000004,IC1
+Fribourg/Freiburg,Lausanne,65778.34999999999,IC1
+Thun,Bern,31264.012000000002,"IC6, IC61, IC8, IC81"
+Lugano Nord,Lugano,659.9340000000084,"IC2, IC21"
+Lugano Nord,Bellinzona,28895.061999999976,"IC2, IC21"
+Olten,Bern,65626.28,"IC6, IC61"
+Olten,Biel/Bienne,60070.608000000015,IC5
+Olten,Luzern,55768.093,IC21
+Olten,Aarau,13373.403999999995,IC5
+Biel/Bienne,Neuchâtel,29200.119999999995,IC5
+Lausanne,Genève,60226.62999999999,IC1
+Lausanne,Neuchâtel,75087.957,IC5
+Zug,Bellinzona,193790.22500000006,IC2
+Luzern,Bellinzona,169866.354,IC21
+Genève,Genève-Aéroport,5918.188000000002,IC1
